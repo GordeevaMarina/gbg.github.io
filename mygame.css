@@ -62,8 +62,8 @@ background-image: url('оружие.png')
  #explosion
  {
  	display:none;
- 	width: 5px;
- 	height: 5px;
+ 	width: 20px;
+ 	height: 20px;
  	position: absolute;
  	top: 249px;
  	left: 80px;
