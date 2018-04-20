@@ -109,22 +109,18 @@ p{
 	font-style: normal;
 }
 #inputX{
-	text-align: left;
-	border: 3px double #AFEEEE;
-	position: absolute; 
-	top: 330px; 
-	left: 650px;
+	
+	border: 3px double black;
+
 	border-color: #40E0D0;
 	background-color: #5F9EA0;
 	text-decoration-color: #20B2AA;
 }
 #inputY
 {
-	text-align: right;
-	border: 3px double #AFEEEE;
-	position: absolute; 
-	top: 330px; 
-	left: 883px;
+	
+	border: 3px double #black;
+
 	border-color: #40E0D0;
 	background-color: #5F9EA0;
 	text-decoration-color: #20B2AA;
